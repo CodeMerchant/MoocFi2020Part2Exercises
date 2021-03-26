@@ -1,0 +1,3 @@
+Java The Complete Reference, 2017, 218, Herbert Schildt
+Java Software Solutions, 2017, 68, Loftus and Loftus
+Head First Java, 2005, 456, OReilly Media
